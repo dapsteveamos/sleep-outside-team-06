@@ -15,6 +15,16 @@ https://trello.com/invite/b/67f1b616a4eac33f7db106c4/ATTI7111f2e0b11a0b105654404
 
  - https://byui-cse.github.io/wdd330-ww-course/week01/team.html
 
+
+WDD 330 Team 06
+
+Trello site - https://trello.com/invite/b/67f1b616a4eac33f7db106c4/ATTI7111f2e0b11a0b105654404a830355d351B0513C/sleep-outside-team-06
+
+Team members
+
+- Steve Amos
+
+
 ### Prerequisites
 
 - You must have Node installed to run the following commands.
