@@ -3,6 +3,14 @@
 
 ### ⛺ SleepOutside Starter Code
 
+## Netlify Site Deployment
+
+[Sleep Outside]https://sleep-out-side-wdd330-team06.netlify.app/
+
+
+trello board link
+https://trello.com/invite/b/67f1b616a4eac33f7db106c4/ATTI7111f2e0b11a0b105654404a830355d351B0513C/sleep-outside-team-06
+
  - This repository is the start of the SleepOutside web application project for WDD 330. The repository contains branches which are checkpoints for the team and individual assignments throughout the course.
 
  - https://byui-cse.github.io/wdd330-ww-course/week01/team.html
