@@ -4,6 +4,8 @@
 ### ⛺ SleepOutside Starter Code
 
 ## Netlify Site Deployment
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06986a3e-f4b5-4e2e-8ce2-05bc14ac8b69/deploy-status)](https://app.netlify.com/sites/sleep-out-side-wdd330-team06/deploys)
+
 
 [Sleep Outside]https://sleep-out-side-wdd330-team06.netlify.app/
 
